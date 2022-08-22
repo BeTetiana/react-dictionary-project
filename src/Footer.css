@@ -1,0 +1,9 @@
+.Footer {
+  font-size: small;
+  display: block;
+  font-family: monospace;
+}
+.Footer a {
+  text-decoration: none;
+  
+}
