@@ -1,0 +1,15 @@
+.Dictionary {
+  text-align: center;
+  margin: 100px;
+  border: 1px solid green;
+  border-radius: 20px 100px;
+  padding: 20px;
+}
+.Dictionary form {
+  margin: 50px auto 30px;
+}
+.Dictionary:hover {
+  color: white;
+  transition: all 200ms ease-in-out;
+  background-image: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
+}

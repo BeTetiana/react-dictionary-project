@@ -6,3 +6,6 @@
   display: block;
   margin: 0 auto;
 }
+.App h1 {
+    text-align: center;
+}
