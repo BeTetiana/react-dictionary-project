@@ -1,14 +1,23 @@
-.Dictionary {
+.Dictionary-box {
+  display: block;
   text-align: center;
-  margin: 100px;
+  margin: 100px auto;
   border: 1px solid green;
-  border-radius: 20px 100px;
+  border-radius: 1px 120px;
   padding: 20px;
+  border-width: 15px 5px 5px 15px;
+  max-width: 800px;
+}
+.Dictionary h4 {
+  opacity: 0.5;
 }
 .Dictionary form {
   margin: 50px auto 30px;
 }
-.Dictionary:hover {
+.Dictionary .results {
+  text-align: left;
+}
+.Dictionary-box:hover {
   color: white;
   transition: all 200ms ease-in-out;
   background: rgb(201, 222, 150);

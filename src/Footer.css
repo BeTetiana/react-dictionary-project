@@ -2,8 +2,8 @@
   font-size: small;
   display: block;
   font-family: monospace;
+  margin-bottom: 10px;
 }
 .Footer a {
   text-decoration: none;
-  
 }
