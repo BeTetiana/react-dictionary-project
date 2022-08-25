@@ -28,7 +28,7 @@ export default function Dictionary() {
           <input
             type="search"
             placeholder="Search for a word..."
-            autofocus="true"
+            autoFocus={true}
             onChange={updateKeyWord}
           />
           <input type="submit" value="Search" />
