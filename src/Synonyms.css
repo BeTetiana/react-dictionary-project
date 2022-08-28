@@ -1,0 +1,10 @@
+.Synonyms h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.Synonyms li {
+  font-size: 18px;
+  display: inline-block;
+  padding-right: 20px;
+  font-style: italic;
+}

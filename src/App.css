@@ -7,5 +7,12 @@
   margin: 0 auto;
 }
 .App h1 {
-    text-align: center;
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  text-shadow: 3px 3px 3px rgba(57, 130, 53, 1);
+}
+.App h1:hover {
+  color: rgba(57, 130, 53, 1);
+  text-shadow: 3px 3px 3px #000;
 }

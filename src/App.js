@@ -12,7 +12,7 @@ export default function App() {
         </header>
         <h1>DICTIONARY</h1>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyWord="carrots" />
         </main>
         <footer>
           <Footer />
