@@ -12,7 +12,7 @@ export default function Photos(props) {
                 <a href={photo.src.original} target="_blank" rel="noreferrer">
                   <img
                     src={photo.src.tiny}
-                    className="img-fluid"
+                    className="img-fluid img-thumbnail rounded mx-auto d-block"
                     alt="what you are looking for"
                   />
                 </a>

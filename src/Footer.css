@@ -3,6 +3,8 @@
   display: block;
   font-family: monospace;
   margin-bottom: 10px;
+  text-align: center;
+  margin: 60px auto 20px;
 }
 .Footer a {
   text-decoration: none;

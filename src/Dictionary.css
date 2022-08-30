@@ -1,7 +1,7 @@
 .Dictionary-box {
   display: block;
-  background: url("img/jeremy-bezanger-QJ7gHF6V4no-unsplash.jpg") 0 0/ 800px 400px
-    no-repeat;
+  background: url("img/jeremy-bezanger-QJ7gHF6V4no-unsplash.jpg") center/ 800px
+    400px no-repeat;
 
   text-align: center;
   margin: 100px auto;
@@ -36,7 +36,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c9de96', endColorstr='#398235',GradientType=1 );
 }
 .Dictionary h4 {
-  opacity: 0.5;
+  opacity: 0.7;
 }
 .Dictionary h2 {
   font-size: 36px;
@@ -56,7 +56,7 @@
   border-width: 15px 5px 5px 15px;
   max-width: 800px;
   box-shadow: 0px 10px 10px rgb(0, 0, 0/ 10%);
-  margin: 20px auto;
+  margin: 50px auto;
 }
 .Dictionary section:hover {
   transition: all 200ms ease-in-out;
